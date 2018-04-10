@@ -21,4 +21,4 @@
     
 第三步：挑选相应图标并获取字体编码，应用于页面
 
-<i class="iconfont">&#x33;</i>
+  i class="iconfont">333 /i>
